@@ -4,7 +4,7 @@ I made this site for improve myself and have fun.
 
 ## How Can I use
 
-- Firstly Download the api
+- Firstly Download the [api](https://github.com/murathanbakti/bookingApp-clone-api)
 - Download the code
 - Install all dependencies using the **npm i** or **yarn** code
 - Start the Api using the npm start
@@ -28,10 +28,10 @@ I made this site for improve myself and have fun.
 * React Router 
 
 ## Photos
-[Screenshot](./Screenshot-1.png) 
-[Screenshot](./Screenshot-2.png) 
-[Screenshot](./Screenshot-3.png) 
-[Screenshot](./Screenshot-4.png) 
-[Screenshot](./Screenshot-5.png) 
-[Screenshot](./Screenshot-6.png) 
-[Screenshot](./Screenshot-7.png) 
+[!Screenshot](./Screenshot-1.png) 
+[!Screenshot](./Screenshot-2.png) 
+[!Screenshot](./Screenshot-3.png) 
+[!Screenshot](./Screenshot-4.png) 
+[!Screenshot](./Screenshot-5.png) 
+[!Screenshot](./Screenshot-6.png) 
+[!Screenshot](./Screenshot-7.png) 
